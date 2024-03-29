@@ -9,7 +9,7 @@ Connect with me to discuss potential collaborations.  <img src="https://user-ima
 **Contacts:**
 
 
-- <a href="mailto:mailto:katyadiachenko1@gmail.com">Email</a> ✉️
+- <a href="mailto:katyadiachenko1@gmail.com">Email</a> ✉️
 - [LinkedIn](https://www.linkedin.com/in/katya-ocheretiana/) 📌
 - [Telegram](https://t.me/katya_ocheretiana) 📱
 
