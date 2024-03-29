@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/MartinHeinz/MartinHeinz/blob/master/wave.gif" width="30px">, I am Katya Ocheretiana!
 
 <!--
 **KatiaOcheretiana/KatiaOcheretiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
