@@ -19,12 +19,12 @@ Connect with me to discuss potential collaborations.  <img src="https://user-ima
 
 
 <p align="center" >
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">  width="30" height="30" alt="HTML icon" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">   width="30" height="30" alt="JavaScript icon" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">   width="30" height="30" alt="CSS icon" /></a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer">    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">   width="30" height="30" alt="React icon" /></a>
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer">    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">  width="30" height="30" alt="Node.js icon" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer">      <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">    width="30" height="30" alt="Express.js icon" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"  width="30" height="30" alt="HTML icon" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"   width="30" height="30" alt="JavaScript icon" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"   width="30" height="30" alt="CSS icon" /></a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer">    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"  width="30" height="30" alt="React icon" /></a>
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer">    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="30" height="30" alt="Node.js icon" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">      <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"    width="30" height="30" alt="Express.js icon" /></a>
 </p>
 
 
