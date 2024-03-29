@@ -8,7 +8,8 @@ Connect with me to discuss potential collaborations.  <img src="https://user-ima
 
 **Contacts:**
 
-- [Email](mailto:katyadiachenko1@gmail.com)  ✉️
+
+- <a href="mailto:mailto:katyadiachenko1@gmail.com">Email</a> ✉️
 - [LinkedIn](https://www.linkedin.com/in/katya-ocheretiana/) 📌
 - [Telegram](https://t.me/katya_ocheretiana) 📱
 
@@ -37,9 +38,10 @@ Connect with me to discuss potential collaborations.  <img src="https://user-ima
 
 ------
 
-My GitHub stats
+**📊My GitHub stats**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatiaOcheretiana&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatiaOcheretiana&&layout=compact&theme=transparent)
+
  
  
 
