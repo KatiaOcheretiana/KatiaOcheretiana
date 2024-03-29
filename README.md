@@ -2,7 +2,7 @@
 
 --------------------
 
-Enthusiastic Frontend Developer with a keen eye for detail and a passion for crafting engaging and user-friendly web applications. Eager to contribute my skills in HTML5, CSS3, React.js, Node.js and more, while actively seeking opportunities to expand my knowledge and grow within a dynamic team. Ready to tackle new challenges and bring a creative approach to frontend development.
+Enthusiastic Frontend Developer with a keen eye for detail and a passion for crafting engaging and user-friendly web applications. Eager to contribute my skills in HTML5, CSS3, JavaScript, React.js, Node.js and more, while actively seeking opportunities to expand my knowledge and grow within a dynamic team. Ready to tackle new challenges and bring a creative approach to frontend development.
 
 Connect with me to discuss potential collaborations.  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30px"> 
 
@@ -35,7 +35,11 @@ Connect with me to discuss potential collaborations.  <img src="https://user-ima
 </p>
 
 
+------
 
+My GitHub stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatiaOcheretiana&langs_count=8)
  
  
 
