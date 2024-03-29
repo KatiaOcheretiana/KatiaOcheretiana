@@ -18,7 +18,7 @@ Connect with me to discuss potential collaborations.  <img src="https://user-ima
 💻 Main skills:
 
 
-<p align="space-between" >
+<p align="center" >
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"  width="40" height="40" alt="HTML icon" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"   width="40" height="40" alt="CSS icon" /></a>
  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"   width="40" height="40" alt="Sass icon" /></a>
